@@ -2,7 +2,10 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
 <<<<<<< HEAD:WebContent/View/Borrow.jsp
+=======
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 	
 	<head>
 		<meta charset="UTF-8">
@@ -15,6 +18,7 @@
 		<nav class="navbar navbar-expand-lg navbar-light bg-light md-2">
 			<a class="navbar-brand" class="container-fluid" href="http://localhost:8080/Library/Borrow.jsp">Borrow Books</a>
 			<div class="container-fluid">
+<<<<<<< HEAD
 =======
 <head>
 <meta charset="UTF-8">
@@ -32,12 +36,19 @@
 					<li><a class="nav-link" href="#">Contact-Info</a></li>
 				</ul>
 >>>>>>> 5b11d1aed2f169ffbf03c22e5d167ff333c9694b:WebContent/Borrow.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 				<ul class="navbar-nav ml-auto">
 					<li><a class="nav-link" href="http://localhost:8080/advJava/Login.jsp">Sign-In</a></li>
 					<li><a class="nav-link" href="http://localhost:8080/advJava/SignUp.jsp">Sign-Up</a></li>
 				</ul>
 			</div>
+<<<<<<< HEAD
 <<<<<<< HEAD:WebContent/View/Borrow.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 		</nav>
 	
 		<div class="container-fluid">
@@ -84,6 +95,7 @@
 					</tbody>
 				</table>
 			</div>
+<<<<<<< HEAD
 =======
 	</nav>
 	<%
@@ -132,6 +144,9 @@
 		<div class="form-group">
 			<button type="button" class="btn btn-sm">Search Book</button>
 >>>>>>> 5b11d1aed2f169ffbf03c22e5d167ff333c9694b:WebContent/Borrow.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 		</div>
 		<div class="login">
 			<form action="Search Book/User" class="form-group">

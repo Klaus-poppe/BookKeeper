@@ -1,7 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 
+<<<<<<< HEAD
 <<<<<<< HEAD:WebContent/View/SignUp.jsp
+=======
+<<<<<<< HEAD
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 <!DOCTYPE html>
 <html>
 	<head>
@@ -78,14 +82,21 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<a class="navbar-brand" class="container-fluid" href="http://localhost:8080/Library/Home.jsp">Home</a>
+<<<<<<< HEAD
 >>>>>>> 5b11d1aed2f169ffbf03c22e5d167ff333c9694b:WebContent/SignUp.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 			<div class="container-fluid">
 				<ul class="navbar-nav ml-auto">
 					<li><a class="nav-link" href="http://localhost:8080/Library/Login.jsp#">Sign-In</a></li>
 					<li><a class="nav-link" href="#">Sign-Up</a></li>
 				</ul>
 			</div>
+<<<<<<< HEAD
 <<<<<<< HEAD:WebContent/View/SignUp.jsp
+=======
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 		</nav>
 
 		<!-- SIGNUP FORM  -->
@@ -99,6 +110,7 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
     			<input type="text" name="ph" placeholder="Contact No." required="required" />
     		    <input type="password" name="p" placeholder="Password" required="required" />
     		    <input type="password" name="cp" placeholder="Confirm Password" required="required" />
+<<<<<<< HEAD
 =======
 	</nav>
 	
@@ -116,6 +128,9 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
         <input type="password" name="p" placeholder="Password" required="required" />
         <input type="password" name="cp" placeholder="Confirm Password" required="required" />
 >>>>>>> 5b11d1aed2f169ffbf03c22e5d167ff333c9694b:WebContent/SignUp.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
         
     		    <button type="submit" name="b1" value="Register" class="btn btn-primary btn-block btn-large">Register</button>
    			</form>

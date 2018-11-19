@@ -2,7 +2,10 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
 <<<<<<< HEAD:WebContent/View/Home.jsp
+=======
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 	<head>
 		<meta charset="UTF-8">
 		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
@@ -84,6 +87,7 @@
 					<button type="button" class="btn btn-primary btn-block btn-large">Search Book</button>
 				</form>
 			</div>
+<<<<<<< HEAD
 =======
 <head>
 <meta charset="UTF-8">
@@ -110,30 +114,11 @@
 	<%
 	List <Book> b = (List <Book> ) request.getAttribute("bo");
 	%>
+=======
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 
-	<div class="container">
-		<h2>
-			List of Books Added by the User
-		</h2>
-		<table class="table">
-			<thead>
-				<tr>
-					<td>Book Name</td>
-					<td>Author</td>
-					<td>Description</td>
-				</tr>
-			</thead>
-				<%
- 						for (Book obj : b) {
- 					%>
- 					<tr>
-				      <th scope="row"><%=obj.getName() %></th>
-				      <td><%=obj.getAuthor() %></td>
-				      <td><%=obj.getGenre() %></td>
-				   
-				    </tr>
-				   <%} %>
 
+<<<<<<< HEAD
 	
 		</table>
 	</div>
@@ -152,8 +137,14 @@
 	</body>
 </html>
 =======
+=======
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </body>
 </html>
 
+<<<<<<< HEAD
 >>>>>>> 5b11d1aed2f169ffbf03c22e5d167ff333c9694b:WebContent/Home.jsp
+=======
+
+>>>>>>> c136ba16c06724af538bd094d92573e0271dad4e
